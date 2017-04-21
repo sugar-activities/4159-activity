@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Memory Mult Div Tux 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.memoryMultDivTuxActivity
+bundle_id = net.gcompris.memoryMultDivTuxActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
